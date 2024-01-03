@@ -1,0 +1,9 @@
+https://www.mytutorialrack.com/top-5-favorite-lightning-ui-features/
+1.Application
+2.Component
+Application inside compoent 
+Component inside application
+Component custom css :  <ltng:require :
+https://developer.salesforce.com/docs/component-library/bundle/ltng:require/documentation
+
+Component standard css : Tags
